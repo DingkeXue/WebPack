@@ -361,5 +361,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "browserslist": [
+    "last 5 version",
+    "> 1%"
+  ]
 }
