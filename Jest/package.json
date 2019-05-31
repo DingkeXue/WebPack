@@ -1,0 +1,20 @@
+{
+  "name": "Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
